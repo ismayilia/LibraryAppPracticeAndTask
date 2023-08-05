@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\C#\C# ProjectLesson\LibraryApp\Service\bin\Debug\Service.dll
+C:\Users\HP\Desktop\C#\C# ProjectLesson\LibraryApp\Service\bin\Debug\Service.pdb
+C:\Users\HP\Desktop\C#\C# ProjectLesson\LibraryApp\Service\bin\Debug\Domain.dll
+C:\Users\HP\Desktop\C#\C# ProjectLesson\LibraryApp\Service\bin\Debug\Repository.dll
+C:\Users\HP\Desktop\C#\C# ProjectLesson\LibraryApp\Service\bin\Debug\Domain.pdb
+C:\Users\HP\Desktop\C#\C# ProjectLesson\LibraryApp\Service\bin\Debug\Repository.pdb
+C:\Users\HP\Desktop\C#\C# ProjectLesson\LibraryApp\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\C# ProjectLesson\LibraryApp\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\C# ProjectLesson\LibraryApp\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\HP\Desktop\C#\C# ProjectLesson\LibraryApp\Service\obj\Debug\Service.dll
+C:\Users\HP\Desktop\C#\C# ProjectLesson\LibraryApp\Service\obj\Debug\Service.pdb
